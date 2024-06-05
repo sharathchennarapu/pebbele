@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.37a824e0.css",
-    "main.js": "/static/js/main.48eb077c.js",
+    "main.js": "/static/js/main.56e3fdd4.js",
     "static/media/banner1.jpg": "/static/media/banner1.d0981fd4ca08a7e71ec7.jpg",
     "static/media/cart-1.jpg": "/static/media/cart-1.5f5bb801bf1efb1209cd.jpg",
     "static/media/e-4.jpg": "/static/media/e-4.1294c467c58f57019bb8.jpg",
@@ -26,10 +26,10 @@
     "static/media/Pebble_Logo-2.avif": "/static/media/Pebble_Logo-2.2bfde1407e7c44ab2678.avif",
     "index.html": "/index.html",
     "main.37a824e0.css.map": "/static/css/main.37a824e0.css.map",
-    "main.48eb077c.js.map": "/static/js/main.48eb077c.js.map"
+    "main.56e3fdd4.js.map": "/static/js/main.56e3fdd4.js.map"
   },
   "entrypoints": [
     "static/css/main.37a824e0.css",
-    "static/js/main.48eb077c.js"
+    "static/js/main.56e3fdd4.js"
   ]
 }
