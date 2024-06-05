@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.heading
+{
+    padding: 40px;
+}
+.grid_container
+{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 130px;
+    padding-top: 20px;
+}
+.grid_item
+{
+    background-color: rgba(233, 233, 233, 0.211);
+    border-radius: 25px;
+}
+.grid_item>img
+{
+    width: 180px;
+    height: 180px;
+   
+}
+.grid_item>img:hover
+{
+    transform: scale(1.10);
+}
+.grid_item>p
+{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,132 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.grid_container2
+{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+    padding: 100px;
+    overflow: hidden;
+    position: relative;
+}
+.grid_item2
+{
+    height: 500px;
+    width: 650px;
+
+
+}
+.cartimg-1
+{
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    right: 1150px;
+   
+}
+ .cartimg-2
+{
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    right: 800px;
+    top: 70px;
+} 
+ .cartimg-3
+{
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    bottom: 100px;
+    right: 1110px;   
+} 
+ .cartimg-4
+{
+    width: 270px;
+    height: 270px;
+    position: absolute;
+    right: 920px;
+    bottom: 200px;
+   
+} 
+.cartheading
+{
+    font-weight: bold;
+    font-size: 35px;
+    padding: 20px;
+}
+.cartrupee
+{
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 20px;
+}
+.cartgrey
+{
+    display: inline-block;
+    padding-left: 10px;
+    color: grey;
+    font-weight: lighter;
+    font-size: medium;
+}
+.carttaxes
+{
+    font-size: small;
+    padding-left: 20px;
+}
+.cartcolor
+{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: rgb(72, 72, 72);
+}
+.cartcolorbox
+{
+    border: 1px solid #52b6aa;
+    padding: 9px;
+    margin-left: 20px;
+    color: white;
+    background-color: #52b6aa;
+}
+.cartplus
+{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.cartadding
+{
+    font-size: 30px;
+    padding: 0px 10px 0px 10px;
+    border: 1px solid #52b6aa;
+    margin: 20px 20px 20px 20px;
+}
+.cartadding:hover
+{
+    color: white;
+    background-color: #52b6aa;
+}
+.cartaddtocart
+{
+    border: 1px solid #52b6aa;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+    color: #52b6aa;
+}
+.cartaddtocart:hover
+{
+    color: white;
+    background-color: #52b6aa;
+}
+.cartaddtocart1
+{
+    color: #52b6aa;
+    padding: 15px;
+    margin: 20px;
+    
+}

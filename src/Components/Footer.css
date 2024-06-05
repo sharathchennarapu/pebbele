@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.grid_container7
+{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    
+    background-color: #002d46;
+}
+.grid_item7
+{
+   
+    border-radius: 10px;
+    padding: 30px;
+}
+.footerimg
+{
+    height: auto;
+    width: auto;
+}
+.heading7
+{
+    color: #00b9aa;
+    padding: 8px;
+}
+.flines>li
+{
+    list-style: none;
+    padding: 5px;
+    color: white;
+}
+.fcolor
+{
+    color: white;
+}

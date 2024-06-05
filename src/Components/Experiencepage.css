@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.heading4
+{
+    padding: 40px;
+}
+.grid_container4
+{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 80px;
+}
+.grid_item4
+{
+    border: 1px solid rgb(227, 227, 227);
+    border-radius: 10px;
+}
+.expimgchange
+{
+    height: 100px;
+    width: 100px;
+}
+.exptext
+{
+    justify-content: center;
+    color: rgb(69, 68, 68);
+}

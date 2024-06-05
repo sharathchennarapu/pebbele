@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.heading5
+{
+    padding: 40px;
+}
+.grid_container5
+{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    gap: 40px;
+}
+.grid_item5
+{
+    border: 1px solid rgb(227, 227, 227);
+    border-radius: 10px;
+}
+.offimgchange
+{
+    height: 80px;
+    width: 100px;
+}
