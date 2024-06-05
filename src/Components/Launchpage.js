@@ -13,7 +13,7 @@ function Launchpage() {
     <h1 className="heading1"><b>New Launches</b></h1>
     <div className="grid_container1">
         <div className="grid_item1">
-             <img src={lau_1} />
+             <img src={lau_1} alt="image"/>
              <p className="headingmain"> Pebble Rio</p> 
              <span className="rbox">Premium Metal Build</span> 
              <p className="grey">1.39" HD Display, Polygonal Dial Design</p>
@@ -21,7 +21,7 @@ function Launchpage() {
              <p className="lastline">₹1,899 with bank offer</p> 
         </div>
         <div className="grid_item1">
-             <img src={lau_2} /> 
+             <img src={lau_2} alt="image"/> 
              <p className="headingmain"> Pebble Mega</p> 
              <span className="rbox">Premium Metal Build</span> 
              <p className="grey">2.06” Amoled Display, BT Calling, Health Suite, AO</p>
@@ -30,7 +30,7 @@ function Launchpage() {
 
         </div>
         <div className="grid_item1">
-             <img src={lau_3} /> 
+             <img src={lau_3} alt="image"/> 
              <p className="headingmain"> Pebble Vienna</p> 
              <span className="rbox">BT Calling</span> 
              <p className="grey">1.27" HD Display, BT Calling, Diamond Cut Design, Female health Monitoring</p>
@@ -39,7 +39,7 @@ function Launchpage() {
 
         </div>
         <div className="grid_item1">
-             <img src={lau_4} /> 
+             <img src={lau_4} alt="image"/> 
              <p className="headingmain"> Pebble Cosmos Luxe 3</p> 
              <span className="rbox">BT Calling</span> 
              <p className="grey">1.43" Amoled Display, BT Calling, Heart Rate Monitoring, SpO2 Monitoring,</p>

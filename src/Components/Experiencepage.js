@@ -14,27 +14,27 @@ function Experiencepage() {
     <h1 className="heading4"><b>Experience Pebble</b></h1>
       <div className="grid_container4">
         <div className="grid_items4">
-           <img className="expimgchange" src={expimg1} />
+           <img className="expimgchange" src={expimg1} alt="image"/>
            <p className="exptext">10+ Years Legacy</p>
         </div>
         <div className="grid_items4">
-        <img className="expimgchange" src={expimg2} />
+        <img className="expimgchange" src={expimg2} alt="image"/>
         <p className="exptext">Trusted Product</p>
         </div>
         <div className="grid_items4">
-        <img className="expimgchange" src={expimg3} />
+        <img className="expimgchange" src={expimg3} alt="image"/>
         <p className="exptext">Hassle Free Replacement</p>
         </div>
         <div className="grid_items4">
-        <img className="expimgchange" src={expimg4} />
+        <img className="expimgchange" src={expimg4} alt="image"/>
         <p className="exptext"> Assured Warranty</p>
         </div>
         <div className="grid_items4">
-        <img className="expimgchange" src={expimg5} />
+        <img className="expimgchange" src={expimg5} alt="image"/>
         <p className="exptext">Fast & Free Delivery</p>
         </div>
         <div className="grid_items4">
-        <img className="expimgchange" src={expimg6} />
+        <img className="expimgchange" src={expimg6} alt="image"/>
         <p className="exptext">Quick Support</p>
         </div>
       </div><br/><br/><br/>

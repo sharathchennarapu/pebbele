@@ -7,7 +7,7 @@ function Footer() {
     <>
       <div className="grid_container7">
         <div className="grid_item7">
-            <img className="footerimg" src={footerimg} />
+            <img className="footerimg" src={footerimg} alt="image"/>
             <p className="fcolor">Since inception in 2013, there has been one principle that we, at Pebble have held as holy grail
                  build experiences crafted around ‘you’. We are a technology brand that endeavours to get the perfect
                   blend of innovation, technology and design in each of our products.</p>

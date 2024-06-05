@@ -7,7 +7,7 @@ function Bannerbanner() {
   return (
     <>
      <div>
-        <img src={img1} alt=""/>
+        <img src={img1} alt="image"/>
      </div>
 
         

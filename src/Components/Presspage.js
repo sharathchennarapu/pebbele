@@ -12,13 +12,13 @@ function Presspage() {
     <h1 className="heading6"><b>In The Press</b></h1>
       <div className="grid_container6">
             <div className="grid_items6">
-           <img className="pressimgchange" src={pressimg1} />
+           <img className="pressimgchange" src={pressimg1} alt="image"/>
             </div>
             <div className="grid_items6">
-        <img className="pressimgchange" src={pressimg2} />
+        <img className="pressimgchange" src={pressimg2} alt="image"/>
             </div>
             <div className="grid_items6">
-        <img className="pressimgchange" src={pressimg3} />
+        <img className="pressimgchange" src={pressimg3} alt="image"/>
             </div>
       </div><br/><br/><br/>
     

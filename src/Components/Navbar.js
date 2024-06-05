@@ -12,7 +12,7 @@ function Navbar() {
     
       <ul className="navbar">
       <li>
-      <img className="image" src={logo}/>
+      <img className="image" src={logo} alt="image"/>
    
         </li>
         <li>
