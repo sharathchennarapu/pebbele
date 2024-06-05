@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "../Components/Experiencepage.css";
 import expimg1 from "../images/e-1.jpg";
 import expimg2 from "../images/e-2.jpg";

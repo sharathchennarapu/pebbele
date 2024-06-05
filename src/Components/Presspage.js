@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import pressimg1 from "../images/press-1.jpg";
 import pressimg2 from "../images/press-2.jpg";
 import pressimg3 from "../images/press-3.jpg";

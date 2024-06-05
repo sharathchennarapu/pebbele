@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React from "react";
 import "../Components/Navbar.css";
 import logo from '../images/Pebble_Logo-2.avif';
 import { CiSearch, CiUser, CiShoppingCart } from "react-icons/ci";

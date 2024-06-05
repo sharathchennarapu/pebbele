@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "../Components/Officalpage.css";
 import offimg1 from "../images/off-1.jpg";
 import offimg2 from "../images/off-2.jpg";

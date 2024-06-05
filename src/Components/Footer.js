@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import footerimg from "../images/Pebble_Logo-2.avif";
 import "../Components/Footer.css";
 
