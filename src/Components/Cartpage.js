@@ -11,10 +11,10 @@ function Cartpage() {
     <>
         <div className="grid_container2">
             <div className="grid_item2">
-                 <img className="cartimg-1" src={cartimg1} alt=""/>
-                 <img className="cartimg-2" src={cartimg2} alt=""/>
-                 <img className="cartimg-3" src={cartimg3} alt=""/>
-                 <img className="cartimg-4" src={cartimg4} alt=""/>
+                 <img className="cartimg-1" src={cartimg1} />
+                 <img className="cartimg-2" src={cartimg2} />
+                 <img className="cartimg-3" src={cartimg3} />
+                 <img className="cartimg-4" src={cartimg4} />
             </div>
             <div className="grid_item2">
                 <p className="cartheading">Pebble Blissbuds Ultra</p>

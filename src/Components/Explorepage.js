@@ -12,19 +12,19 @@ function Explorepage() {
     <h1 className="heading"><b>Explore Collection</b></h1>
     <div className="grid_container">
         <div className="grid_item">
-             <img src={Explo_1} alt=""/>
+             <img src={Explo_1} />
              <p>Luxe Edition</p>  
         </div>
         <div className="grid_item">
-             <img src={Explo_2} alt=""/> 
+             <img src={Explo_2}/> 
              <p>Best Sellers</p> 
         </div>
         <div className="grid_item">
-             <img src={Explo_3} alt=""/> 
+             <img src={Explo_3} /> 
              <p>Women's Edition</p> 
         </div>
         <div className="grid_item">
-             <img src={Explo_4} alt=""/> 
+             <img src={Explo_4} /> 
              <p>Value Edition</p> 
        </div>
             

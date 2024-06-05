@@ -1,19 +1,10 @@
 import React, { Component, useState } from "react";
 import "../Components/Navbar.css";
 import logo from '../images/Pebble_Logo-2.avif';
-import { CiDark, CiSearch, CiUser, CiShoppingCart,CiLight } from "react-icons/ci";
+import { CiSearch, CiUser, CiShoppingCart } from "react-icons/ci";
 
 
 function Navbar() {
-
-
-  const [icon, setIcon] = useState(<CiDark />);
-  
-  const Change = () => {
-    setIcon(<CiLight />);
-
-   
-  };
   return (
     <>
 
@@ -21,7 +12,7 @@ function Navbar() {
     
       <ul className="navbar">
       <li>
-      <img className="image" src={logo} alt=""/>
+      <img className="image" src={logo}/>
    
         </li>
         <li>
@@ -51,7 +42,7 @@ function Navbar() {
         </li>
         <li>
            <ul className="icons">
-             <li><a className="icon1" href="#" onClick={Change}>{icon}</a></li>
+           
              <li><a className="icon1" href="#"><CiSearch /></a></li>
              <li><a className="icon1" href="#"><CiUser /></a></li>
              <li><a className="icon1" href="#"><CiShoppingCart /></a></li>
