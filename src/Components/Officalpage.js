@@ -18,36 +18,36 @@ function Officalpage() {
     <h1 className="heading5"><b>Official Partners</b></h1>
       <div className="grid_container5">
             <div className="grid_items5">
-           <img className="offimgchange" src={offimg1} alt="image"/>
+           <img className="offimgchange" src={offimg1} alt="offimg"/>
             </div>
             <div className="grid_items5">
-        <img className="offimgchange" src={offimg2} alt="image"/>
+        <img className="offimgchange" src={offimg2} alt="offimg"/>
         
             </div>
             <div className="grid_items5">
-        <img className="offimgchange" src={offimg3} alt="image"/>
+        <img className="offimgchange" src={offimg3} alt="offimg"/>
         
             </div>
             <div className="grid_items5">
-        <img className="offimgchange" src={offimg4} alt="image"/>
+        <img className="offimgchange" src={offimg4} alt="offimg"/>
        
            </div>
            <div className="grid_items5">
-        <img className="offimgchange" src={offimg5} alt="image"/>
+        <img className="offimgchange" src={offimg5} alt="offimg"/>
       
            </div>
            <div className="grid_items5">
-        <img className="offimgchange" src={offimg6} alt="image"/>
+        <img className="offimgchange" src={offimg6} alt="offimg"/>
           
            </div>
     
            <div className="grid_items5">
-        <img className="offimgchange" src={offimg7} alt="image"/>
+        <img className="offimgchange" src={offimg7} alt="offimg"/>
         
            </div>
         
             <div className="grid_items5">
-        <img className="offimgchange" src={offimg8} alt="image"/>
+        <img className="offimgchange" src={offimg8} alt="offimg"/>
         
            </div>
       </div><br/><br/><br/>

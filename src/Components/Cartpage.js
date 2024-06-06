@@ -11,10 +11,10 @@ function Cartpage() {
     <>
         <div className="grid_container2">
             <div className="grid_item2">
-                 <img className="cartimg-1" src={cartimg1} alt="image" />
-                 <img className="cartimg-2" src={cartimg2} alt="image"/>
-                 <img className="cartimg-3" src={cartimg3} alt="image"/>
-                 <img className="cartimg-4" src={cartimg4} alt="image"/>
+                 <img className="cartimg-1" src={cartimg1} alt="cartimg" />
+                 <img className="cartimg-2" src={cartimg2} alt="cartimg"/>
+                 <img className="cartimg-3" src={cartimg3} alt="cartimg"/>
+                 <img className="cartimg-4" src={cartimg4} alt="cartimg"/>
             </div>
             <div className="grid_item2">
                 <p className="cartheading">Pebble Blissbuds Ultra</p>
@@ -25,7 +25,7 @@ function Cartpage() {
                 <p className="cartplus"><span className="cartadding">-</span><span className="cartnumb">1</span><span className="cartadding">+</span></p>
                 <p className="cartaddtocart"><b>Add to Cart</b></p>
                 <p className="cartaddtocart"><b>Buy it Now</b></p>
-                <p className="cartaddtocart1"><a href="#">VIEW FULL DETAILS </a> </p>
+                <p className="cartaddtocart1"><button>VIEW FULL DETAILS </button> </p>
 
                 </div>
         </div>

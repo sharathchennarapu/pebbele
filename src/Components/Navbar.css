@@ -30,21 +30,23 @@
 
 }
 .icons>li:hover{
-    transform: scale(1.20);
+    transform: scale(1.10);
 }
-.navbar>li>a
+.navbar>li>button
 {
     text-decoration: none;
     color: rgb(3, 3, 60);
     font-size: 16px;
+    border: none;
 }
-.icons>li>a
+.icons>li>button
 {
     text-decoration: none;
     color: rgb(3, 3, 60);
     font-size: 22px;
+    border: none;
 }
-.navbar>li>a:hover
+.navbar>li>button:hover
 {
     color: rgb(135, 135, 136);
     border-bottom: 2px solid   rgb(214, 214, 214);

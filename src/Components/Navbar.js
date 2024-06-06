@@ -12,40 +12,40 @@ function Navbar() {
     
       <ul className="navbar">
       <li>
-      <img className="image" src={logo} alt="image"/>
+      <img className="image" src={logo} alt="logoimg"/>
    
         </li>
         <li>
-          <a href="#">SMART WATCHES</a>
+          <button >SMART WATCHES</button>
         </li>
         <li>
-          <a href="#">NEW LAUNCHES</a>
+          <button>NEW LAUNCHES</button>
         </li>
 
         <li>
-          <a href="#">EARPHONES </a>
+          <button>EARPHONES </button>
         </li>
         <li>
-          <a href="#">SPEAKERS</a>
+          <button>SPEAKERS</button>
         </li>
         <li>
-          <a href="#">KEYBOARDS</a>
+          <button>KEYBOARDS</button>
         </li>
         <li>
-          <a href="#">SMART HOME</a>
+          <button>SMART HOME</button>
         </li>
         <li>
-          <a href="#">ACCESSORIES</a>
+          <button>ACCESSORIES</button>
         </li>
         <li>
-          <a href="#">BLOGS</a>
+          <button>BLOGS</button>
         </li>
         <li>
            <ul className="icons">
            
-             <li><a className="icon1" href="#"><CiSearch /></a></li>
-             <li><a className="icon1" href="#"><CiUser /></a></li>
-             <li><a className="icon1" href="#"><CiShoppingCart /></a></li>
+             <li><button className="icon1" ><CiSearch /></button></li>
+             <li><button className="icon1" ><CiUser /></button></li>
+             <li><button className="icon1" ><CiShoppingCart /></button></li>
            </ul>
         </li>
       </ul>
